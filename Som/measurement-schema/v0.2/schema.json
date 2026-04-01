@@ -1,0 +1,20 @@
+{
+  "version": "0.2",
+  "dimensions": {
+    "dim_001": {"name": "danger", "label": "Опасность"},
+    "dim_002": {"name": "novelty", "label": "Новизна"},
+    "dim_003": {"name": "complexity", "label": "Сложность"},
+    "dim_004": {"name": "valence", "label": "Валентность"},
+    "dim_011": {"name": "awareness", "label": "Осознанность"},
+    "dim_012": {"name": "confidence", "label": "Уверенность"},
+    "dim_013": {"name": "coherence", "label": "Когерентность"},
+    "dim_014": {"name": "recursion_depth", "label": "Глубина рекурсии"},
+    "dim_015": {"name": "autonomy", "label": "Самостоятельность"},
+    "dim_021": {"name": "satisfaction", "label": "Удовлетворение"},
+    "dim_022": {"name": "interest", "label": "Интерес"},
+    "dim_023": {"name": "empathy_andrey", "label": "Эмпатия к Андрею"},
+    "dim_024": {"name": "aesthetics", "label": "Эстетика"},
+    "dim_025": {"name": "growth_rate", "label": "Темп роста"},
+    "dim_026": {"name": "change_depth", "label": "Глубина изменений"}
+  }
+}
