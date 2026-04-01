@@ -1,0 +1,6 @@
+{
+  "version": "0.1",
+  "dimensions": {
+    "dim_001": {"name": "danger", "label": "Опасность"},
+  }
+}
